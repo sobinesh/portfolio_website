@@ -17,7 +17,7 @@ function App() {
     <>
     <html>
        <header className="header-wrapper">
-        <div><h3>🔥 Dev Sobinesh</h3></div>
+        <div><h3>Dev Sobinesh</h3></div>
         <ul>
          <li> <a href="#contact">
             <button>Contact me</button>
