@@ -67,19 +67,19 @@ function App() {
         <h2>My Projects</h2>
         <ul>
           <li>
-            <a href="#">
+            <a href="https://github.com/sobinesh">
               <img src={img1} />
               <p>Project #1</p>
             </a>
           </li>
           <li>
-            <a href="#">
+            <a href="https://github.com/sobinesh">
               <img src={img2} />
               <p>Project #2</p>
             </a>
           </li>
           <li>
-            <a href="#">
+            <a href="https://github.com/sobinesh">
               <img src={img3} />
               <p>Project #3</p>
             </a>
